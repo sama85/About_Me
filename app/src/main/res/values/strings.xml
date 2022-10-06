@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Sama Yasser</string>
+    <string name="bio"> Software engineering has been Sama’s passion since high school.  It all started when she took her fist competitive programming training as she not only fell in love with coding, but also admired how competitive programming was challenging and developing her thinking process when studying new topics or solving algorithmic problems.
+        \n \n Sama is truly a go-getter who loves to learn and also spread knowledge. Through her strong leadership skills and passion for coding, she managed to start the first competitive programming community in her college, leading a crew of 25+ students and offering training sessions in data structures and algorithms for 100+ trainees.
+         \n \n Besides, she enjoys focusing on academics as she’s honored as a top-5% student in her department. She was also developing other technical skills continuously through university projects and self-studying. She has worked on creating several desktop applications using Java, JavaFX with SceneBuilder and MySQL database. She also worked with Android Studio to create mobile applications, through which she developed a sound understanding of object-oriented programming.
+</string>
+</resources>
