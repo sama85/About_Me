@@ -5,4 +5,6 @@
         \n \n Sama is truly a go-getter who loves to learn and also spread knowledge. Through her strong leadership skills and passion for coding, she managed to start the first competitive programming community in her college, leading a crew of 25+ students and offering training sessions in data structures and algorithms for 100+ trainees.
          \n \n Besides, she enjoys focusing on academics as she’s honored as a top-5% student in her department. She was also developing other technical skills continuously through university projects and self-studying. She has worked on creating several desktop applications using Java, JavaFX with SceneBuilder and MySQL database. She also worked with Android Studio to create mobile applications, through which she developed a sound understanding of object-oriented programming.
 </string>
+    <string name="enter_your_nickname">Enter your nickname</string>
+    <string name="done">Done</string>
 </resources>
